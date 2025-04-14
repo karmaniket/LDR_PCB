@@ -29,7 +29,7 @@ A simple but efficient LDR sensor PCB. This PCB is made for light-sensitive appl
 > [!NOTE]  
 > This PCB is suitable for personal projects. Significant modifications are needed for real-world or industrial applications.
 
-## 📌 Requirements
+## ⚙️ Requirements
 
 - LDR
 - Buzzer
@@ -43,7 +43,7 @@ A simple but efficient LDR sensor PCB. This PCB is made for light-sensitive appl
 ### Clone the repository
 
     git clone https://github.com/karmaniket/LDR_PCB.git
-    cd MoodPredictor
+    cd LDR_PCB
 
 ### Open in KiCad
 
