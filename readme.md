@@ -38,6 +38,8 @@ This repository contains the KiCad design files, Gerber outputs, and documentati
 
 All Gerber files required for PCB fabrication are located in the [gerber/](gerber/) directory:
 
+```bash
+
 **Copper Layers:**
 - `ldr sensor.kicad_pc_boards-F_Cu.gbr`          # Top copper layer
 - `ldr sensor.kicad_pc_boards-B_Cu.gbr`          # Bottom copper layer
@@ -54,6 +56,7 @@ All Gerber files required for PCB fabrication are located in the [gerber/](gerbe
 - `ldr sensor.kicad_pc_boards-Edge_Cuts.gbr`     # Board outline
 **Job File:**  
 - `ldr sensor.kicad_pc_boards-job.gbrjob`        # job file for CAM automation
+```
 
 ## Setup
 
