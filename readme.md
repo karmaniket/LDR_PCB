@@ -2,7 +2,7 @@
 
 This repository contains the KiCad design files, Gerber outputs, and documentation for a Light Dependent Resistor (LDR) sensor PCB. The project is intended for use in light-sensing applications and is suitable for both prototyping and production.
 
-## ***Click below for full KiCad tutorial***
+## ***Click below for full tutorial***
 
 [![Demo](https://img.youtube.com/vi/dt0KDcHqgbA/maxresdefault.jpg)](https://youtu.be/dt0KDcHqgbA)
 
