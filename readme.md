@@ -4,16 +4,7 @@ This repository contains the KiCad design files, Gerber outputs, and documentati
 
 ## Demo
 
-<table>
-  <tr>
-    <td>
-      <img src="ldr-pcb.gif" />
-    </td>
-    <td>
-      <img style="max-width: 100%; width: 500px;" src="ldr-pcb.png"/>
-    </td>
-  </tr>
-</table>
+![Demo](ldr-pcb.gif)
 
 ## Click below for full KiCad tutorial
 
