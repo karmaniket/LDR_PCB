@@ -80,9 +80,9 @@ All Gerber files required for PCB fabrication are located in the [gerber/](gerbe
 
 ### 4. Order the PCB
 
-1. Zip all files in the [gerber/](gerber/) directory except `.gbrjob`
-2. Upload the ZIP to your preferred PCB manufacturer (e.g., JLCPCB, PCBWay)
-3. Use the following specifications:
+Zip all files in the [gerber/](gerber/) directory except `.gbrjob` <br>
+Upload the ZIP to your preferred PCB manufacturer (e.g., JLCPCB, PCBWay) <br>
+Use the following specifications:
 
 - **Layers:** 2
 - **Material:** FR4
