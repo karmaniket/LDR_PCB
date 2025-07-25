@@ -4,9 +4,7 @@ This repository contains the KiCad design files, Gerber outputs, and documentati
 
 ## Demo
 
-![Demo](ldr-pcb.gif)
-
-## Click below for full KiCad tutorial
+Click below for full KiCad tutorial
 
 [![Demo](https://img.youtube.com/vi/dt0KDcHqgbA/maxresdefault.jpg)](https://youtu.be/dt0KDcHqgbA)
 
@@ -70,7 +68,8 @@ All Gerber files required for PCB fabrication are located in the [gerber/](gerbe
 ### 2. Open in KiCad
 
 - Make desired customizations
-- In some cases you'll need to define custom footprints to match non-standard components
+- In some cases, you may need to define custom footprints to match non-standard components
+- THT (Through-Hole Technology) components were intentionally chosen for ease of prototyping and assembly, but you can substitute SMD (Surface-Mount Device) components if preferred
 
 ### 3. Requirements
 
