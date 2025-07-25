@@ -10,7 +10,7 @@ This repository contains the KiCad design files, Gerber outputs, and documentati
       <img src="ldr-pcb.gif" />
     </td>
     <td>
-      <img style="max-width: 100%; width: 500px;" src="ldr-pcb.png" />
+      <img style="max-width: 100%; width: 500px;" src="ldr.png" />
     </td>
   </tr>
 </table>
