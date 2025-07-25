@@ -4,8 +4,7 @@ This repository contains the KiCad design files, Gerber outputs, and documentati
 
 ## Demo
 
-Click below for full KiCad tutorial
-
+**Click below for full KiCad tutorial**
 [![Demo](https://img.youtube.com/vi/dt0KDcHqgbA/maxresdefault.jpg)](https://youtu.be/dt0KDcHqgbA)
 
 ## Applications
